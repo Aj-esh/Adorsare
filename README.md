@@ -1,7 +1,7 @@
 # picwap
 
 Progress
-- [ ] Create a repo
+- [x] Create a repo
 - [ ] Git HTML pages
 - [ ] Git CSS stylesheet
 - [ ] Git JS scripts
