@@ -2,7 +2,7 @@
 A social media site for alter ego. No limit for noble features but negertivity let be out of sight
 
 Progress
-- [ ] Create a repo
+- [x] Create a repo
 - [ ] Git HTML pages
 - [ ] Git CSS stylesheet
 - [ ] Git JS scripts
