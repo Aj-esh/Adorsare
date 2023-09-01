@@ -1,0 +1,29 @@
+# Nomenclature for version naming
+
+v-M.m.p.is
+here,
+- v, abbrevation for version 
+- M, major update and releasing
+- m, minor updates and releasing
+- p, patches and bug fixes
+
+Along the standard practice,
+
+M: major release number and indicates major incompatible changes or additions to the product
+m: This is the minor release number and indicates minor changes to the product, or improvements to a functionality
+p: This number is used to indicate nominal changes like patches or bug fixes
+is: This is used only in special cases when there are changes even less significant than bug fixes and patches
+
+# Example
+
+v-0.3.5
+implies 
+0th release, 
+3rd addition changes,
+5th bug fixes
+
+# Initial release process
+
+initally go with 0.0.1, during learning process
+after inital canary release we can change to 0.1.1,
+1st official release carry 1.0.0 
