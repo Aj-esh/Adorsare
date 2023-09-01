@@ -1,5 +1,7 @@
 # Adoresare
-A social media site for alter ego. No limit for noble features but negertivity let be out of sight
+A social media site for alter ego. No limit for noble features but negetivity let be out of sight
+
+using https://dashboard.render.com/ platform
 
 Progress
 - [x] Create a repo
